@@ -1,0 +1,2 @@
+This file hosts some important git information.
+
